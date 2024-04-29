@@ -10,4 +10,7 @@ this.colour=colour;
 public String getColour()
 {return colour;
 }
+public String getName() {
+	return name ;
+}
 }
